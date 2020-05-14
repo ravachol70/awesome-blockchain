@@ -70,7 +70,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Formal Methods](#formal)
 - [Philosophy](#philosophy)
   - [Virtual Worlds](#virtual)
-  - [MPN negotiations and SPJ style contracts](#tokenship)
+  - [MPN negotiations](https://link.springer.com/article/10.1007/BF00999251) and [SPJ style contracts](https://www.cs.tufts.edu/~nr/cs257/archive/simon-peyton-jones/contracts.pdf)
 - [Sci-Fi](#sci-fi)
 - [Non-Bitcoin Blockchains](#current)
   - [Active](#active-systems)
