@@ -66,6 +66,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Formal Methods](#formal)
 - [Philosophy](#philosophy)
   - [Virtual Worlds](#virtual)
+  - [MPN negotiations and SPJ style contracts](#tokenship)
 - [Sci-Fi](#sci-fi)
 - [Non-Bitcoin Blockchains](#current)
   - [Active](#active-systems)
