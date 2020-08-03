@@ -139,6 +139,9 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Quantum-Resistance](https://www.wired.co.uk/article/quantum-computers-quantum-security-encryption)
   - [On Future-Proof Design](https://www.youtube.com/watch?v=soUG72j7kB0)
 
+- [Privacy](#privacy)
+  - [Zkopru (zk optimistic rollup) for private transactions](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
+
 - [Crypto-Law](#cryptolaw)
   - [Conceptualizing Cryptolaw](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2914103)
 
