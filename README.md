@@ -138,3 +138,17 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [ASIC Resistant Blockchains](https://bitcoin.stackexchange.com/questions/29975/what-does-it-mean-for-a-cryptocurrency-to-be-asic-resistant)
   - [Quantum-Resistance](https://www.wired.co.uk/article/quantum-computers-quantum-security-encryption)
   - [On Future-Proof Design](https://www.youtube.com/watch?v=soUG72j7kB0)
+
+- [Crypto-Law](#cryptolaw)
+  - [Conceptualizing Cryptolaw](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2914103)
+
+- [Token Engineering](#tokenengineering)
+  - [TBA](https://ethereum.org/en/)
+
+- [Crypto-Economics](#cryptoeconomics)
+  - [Intro to Kojève](https://www.jstor.org/stable/20131192?newaccount=true&read-now=1&socuuid=c2445e81-7bf0-4fd8-b63b-5cb721530c93&socplat=email#page_scan_tab_contents)
+
+- [Crypto-Philology](#cryptophilology)
+  - [Passwords: Philology, Security, Authentication](http://bitfragment.net/files/authentication.pdf)
+
+
