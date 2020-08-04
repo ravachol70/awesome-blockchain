@@ -146,6 +146,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Conceptualizing Cryptolaw](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2914103)
 
 - [Token Engineering](#tokenengineering)
+  - [Tokenship](https://gitter.im/or-humanity-token/community#)
   - [TBA](https://ethereum.org/en/)
 
 - [Crypto-Economics](#cryptoeconomics)
@@ -154,5 +155,6 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
 
 - [Crypto-Philology](#cryptophilology)
   - [Passwords: Philology, Security, Authentication](http://bitfragment.net/files/authentication.pdf)
-
+  - [Ethereum state tree format change using an overlay](https://medium.com/@gballet/ethereum-state-tree-format-change-using-an-overlay-e0862d1bf201)
+  - [Blockchains as Kripke Models:an Analysis of Atomic Cross-Chain Swap](https://yoichihirai.com/isola-paper.pdf)
 
