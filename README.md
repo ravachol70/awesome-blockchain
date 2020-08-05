@@ -1,3 +1,14 @@
+-> document
+  -> block_quote
+       paragraph
+         "Lorem ipsum dolor\nsit amet."
+    -> list (type=bullet tight=true bullet_char=-)
+         list_item
+           paragraph
+             "Qui *quodsi iracundia*"
+      -> list_item
+        -> paragraph
+             "aliquando id"
 # awesome-blockchain
 A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
