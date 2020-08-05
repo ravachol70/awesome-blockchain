@@ -63,6 +63,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Blockchain Utilitarianism](#utilitarianism)
   - [Cryptoeconomics](#cryptoeconomics)
     - [Mock Fungibility](#tokenship)
+      #tokenship
     - [Non-Fungibility](#tokenship)
     - [Full Fungibility](#tokenship)
     - [Partial Fungibility](#tokenship)
@@ -109,6 +110,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Scalability](#privacy)
   - [Regulation](#regulation)
   - [Identity](#identity)
+    #cryptophiloogy
 - [Major Players](#players)
   - [Governments](#gov)
   - [Banks](#banks)
@@ -138,7 +140,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [ASIC Resistant Blockchains](https://bitcoin.stackexchange.com/questions/29975/what-does-it-mean-for-a-cryptocurrency-to-be-asic-resistant)
   - [Quantum-Resistance](https://www.wired.co.uk/article/quantum-computers-quantum-security-encryption)
   - [On Future-Proof Design](https://www.youtube.com/watch?v=soUG72j7kB0)
-
+----
 - [Privacy](#privacy)
   - [Zkopru (zk optimistic rollup) for private transactions](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
 
@@ -147,7 +149,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Intro to Kojève](https://www.jstor.org/stable/20131192?newaccount=true&read-now=1&socuuid=c2445e81-7bf0-4fd8-b63b-5cb721530c93&socplat=email#page_scan_tab_contents)
 
 - [Token Engineering](#tokenengineering)
-  - [Tokenship](https://gitter.im/or-humanity-token/community#)
+  - [#tokenship](https://gitter.im/or-humanity-token/community#)
   - [TBA](https://ethereum.org/en/)
 
 - [Crypto-Economics](#cryptoeconomics)
@@ -158,4 +160,5 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Passwords: Philology, Security, Authentication](http://bitfragment.net/files/authentication.pdf)
   - [Ethereum state tree format change using an overlay](https://medium.com/@gballet/ethereum-state-tree-format-change-using-an-overlay-e0862d1bf201)
   - [Blockchains as Kripke Models:an Analysis of Atomic Cross-Chain Swap](https://yoichihirai.com/isola-paper.pdf)
+  - [“Foundations” of Philosophical Hermeneutics: Truth and Method](https://iep.utm.edu/gadamer/)
 
