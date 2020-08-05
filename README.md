@@ -144,14 +144,15 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
 
 - [Crypto-Law](#cryptolaw)
   - [Conceptualizing Cryptolaw](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2914103)
+  - [Intro to Kojève](https://www.jstor.org/stable/20131192?newaccount=true&read-now=1&socuuid=c2445e81-7bf0-4fd8-b63b-5cb721530c93&socplat=email#page_scan_tab_contents)
 
 - [Token Engineering](#tokenengineering)
   - [Tokenship](https://gitter.im/or-humanity-token/community#)
   - [TBA](https://ethereum.org/en/)
 
 - [Crypto-Economics](#cryptoeconomics)
-  - [Intro to Kojève](https://www.jstor.org/stable/20131192?newaccount=true&read-now=1&socuuid=c2445e81-7bf0-4fd8-b63b-5cb721530c93&socplat=email#page_scan_tab_contents)
   - [Blockchain Governance Bibliography](https://medium.com/cryptolawreview/blockchain-governance-bibliography-360efc52d3f9 )
+  - [Kojève at the Bank -ravachol70 gist](https://gist.github.com/ravachol70/a974892e196aa209acad0600340f6e02)
 
 - [Crypto-Philology](#cryptophilology)
   - [Passwords: Philology, Security, Authentication](http://bitfragment.net/files/authentication.pdf)
