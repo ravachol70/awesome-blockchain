@@ -160,6 +160,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Passwords: Philology, Security, Authentication](http://bitfragment.net/files/authentication.pdf)
   - [Permacoin Whitepaper](https://blockchainlab.com/pdf/permacoin.pdf)
   - [Ethereum state tree format change using an overlay](https://medium.com/@gballet/ethereum-state-tree-format-change-using-an-overlay-e0862d1bf201)
+  - [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
   - [Blockchains as Kripke Models:an Analysis of Atomic Cross-Chain Swap](https://yoichihirai.com/isola-paper.pdf)
   - [“Foundations” of Philosophical Hermeneutics: Truth and Method](https://iep.utm.edu/gadamer/)
   - [[Gadamer, Kojève, Ricoeur]](https://gist.github.com/ravachol70/0bd0cf380eb15d49153c5afcc0d4e95e#gadamer-resists)
