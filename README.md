@@ -144,6 +144,9 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
 - [Privacy](#privacy)
   - [Zkopru (zk optimistic rollup) for private transactions](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
 
+- [Cryptography](#cryptography)
+  - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
+
 - [Crypto-Law](#cryptolaw)
   - [Conceptualizing Cryptolaw](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2914103)
   - [Intro to Kojève](https://www.jstor.org/stable/20131192?newaccount=true&read-now=1&socuuid=c2445e81-7bf0-4fd8-b63b-5cb721530c93&socplat=email#page_scan_tab_contents)
