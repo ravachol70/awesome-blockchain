@@ -141,8 +141,9 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Quantum-Resistance](https://www.wired.co.uk/article/quantum-computers-quantum-security-encryption)
   - [On Future-Proof Design](https://www.youtube.com/watch?v=soUG72j7kB0)
 ----
-- [Privacy](#privacy)
+- [Privacy and General Privacy](#privacy)
   - [Zkopru (zk optimistic rollup) for private transactions](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
+  - [Chomsky on Privacy since cica '96 or '97. For example: ](https://chomsky.info/20140215/)
 
 - [Cryptography](#cryptography)
   - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
