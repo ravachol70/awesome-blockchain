@@ -168,5 +168,5 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Blockchains as Kripke Models:an Analysis of Atomic Cross-Chain Swap](https://yoichihirai.com/isola-paper.pdf)
   - [“Foundations” of Philosophical Hermeneutics: Truth and Method](https://iep.utm.edu/gadamer/)
   - [[Gadamer, Kojève, Ricoeur]](https://gist.github.com/ravachol70/0bd0cf380eb15d49153c5afcc0d4e95e#gadamer-resists) also Ricoeur, Mannheim,...
-  - [Assorted other voices]() see #cryptolaw
+  - [Assorted other voices](https://gist.github.com/ravachol70/bade6d5e679c9d42c4ea1d7bb148c9eb) see #cryptolaw
 
