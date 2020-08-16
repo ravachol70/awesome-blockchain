@@ -143,7 +143,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
 ----
 - [Privacy and General Privacy](#privacy)
   - [Zkopru (zk optimistic rollup) for private transactions](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
-  - [Chomsky on Privacy since cica '96 or '97. For example: ](https://chomsky.info/20140215/)
+  - [Chomsky on Privacy since circa 2014](https://chomsky.info/20140215/) For example: Privacy should not have to be defended
 
 - [Cryptography](#cryptography)
   - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
@@ -167,5 +167,6 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Canonical WETH](https://blog.0xproject.com/canonical-weth-a9aa7d0279dd)
   - [Blockchains as Kripke Models:an Analysis of Atomic Cross-Chain Swap](https://yoichihirai.com/isola-paper.pdf)
   - [“Foundations” of Philosophical Hermeneutics: Truth and Method](https://iep.utm.edu/gadamer/)
-  - [[Gadamer, Kojève, Ricoeur]](https://gist.github.com/ravachol70/0bd0cf380eb15d49153c5afcc0d4e95e#gadamer-resists)
+  - [[Gadamer, Kojève, Ricoeur]](https://gist.github.com/ravachol70/0bd0cf380eb15d49153c5afcc0d4e95e#gadamer-resists) also Ricoeur, Mannheim,...
+  - [Assorted other voices]() see #cryptolaw
 
