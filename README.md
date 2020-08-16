@@ -143,7 +143,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
 ----
 - [Privacy and General Privacy](#privacy)
   - [Zkopru (zk optimistic rollup) for private transactions](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
-  - [Chomsky on Privacy since circa 2014](https://chomsky.info/20140215/) For example: Privacy should not have to be defended
+  - [Chomsky on General Privacy circa 2014](https://chomsky.info/20140215/) "Privacy should not have to be defended"
 
 - [Cryptography](#cryptography)
   - [Introduction to Cryptography by Christof Paar](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg)
