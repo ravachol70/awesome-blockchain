@@ -142,7 +142,8 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [On Future-Proof Design](https://www.youtube.com/watch?v=soUG72j7kB0)
 ----
 - [Income & Debt](#income)
-  - [Davide Graeber](https://twitter.com/davidgraeber/status/1113467281223426048?lang=en) "UBI aims to expand the zone of unconditionality"
+  - [David Graeber](https://twitter.com/davidgraeber/status/1113467281223426048?lang=en) "UBI aims to expand the zone of unconditionality"
+
 - [Privacy](#privacy)
   - [Zkopru (zk optimistic rollup) for private transactions](https://ethresear.ch/t/zkopru-zk-optimistic-rollup-for-private-transactions/7717)
   - [Chomsky on General Privacy circa 2014](https://chomsky.info/20140215/) "Privacy should not have to be defended"
