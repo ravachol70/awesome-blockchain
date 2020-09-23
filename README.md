@@ -156,6 +156,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Intro to Kojève](https://www.jstor.org/stable/20131192?newaccount=true&read-now=1&socuuid=c2445e81-7bf0-4fd8-b63b-5cb721530c93&socplat=email#page_scan_tab_contents)
 
 - [Token Engineering](#tokenengineering)
+  - [Bonding Curves]]https://discourse.sourcecred.io/t/bonding-curve-references/271)
   - [#tokenship](https://gitter.im/or-humanity-token/community#)
   - [TBA](https://ethereum.org/en/)
 
