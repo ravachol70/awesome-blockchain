@@ -62,7 +62,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
   - [Bitcoin Maximalism](#maximalism)
   - [Blockchain Utilitarianism](#utilitarianism)
   - [Cryptoeconomics](#cryptoeconomics)
-    - [Mock Fungibility](#tokenship)
+    - [Mock Fungibility](https://github.com/Mock-Fungibility-Research-Group)
       #tokenship
     - [Non-Fungibility](#tokenship)
     - [Full Fungibility](#tokenship)
@@ -157,6 +157,7 @@ A curated list of awesome blockchain resources. [![Awesome](https://cdn.rawgit.c
 
 - [Token Engineering](#tokenengineering)
   - [Bonding Curves](https://discourse.sourcecred.io/t/bonding-curve-references/271)
+    - [More](https://github.com/Mock-Fungibility-Research-Group/awesome-bonding)
   - [#tokenship](https://gitter.im/or-humanity-token/community#)
   - [TBA](https://ethereum.org/en/)
 
